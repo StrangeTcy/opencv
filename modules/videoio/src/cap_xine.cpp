@@ -353,3 +353,4 @@ Ptr<IVideoCapture> cv::createXINECapture(const char *filename)
         return res;
     return Ptr<IVideoCapture>();
 }
+
